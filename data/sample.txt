@@ -1,0 +1,13 @@
+DocEngine v2 Sample Document
+=============================
+
+This is a sample plain-text document used for smoke testing the DocEngine CLI.
+
+It contains multiple paragraphs separated by blank lines.
+
+Each paragraph becomes a separate section when parsed.
+
+The document includes enough content to exercise word counting, line counting,
+and section detection features of the parser.
+
+End of sample document.
